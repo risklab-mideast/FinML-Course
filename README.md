@@ -14,12 +14,13 @@ community for non-business and educational purposes only,  under a GNU-GPL licen
 
  * Financial Data Structures (Chapter 2)
  * Labeling (Chapter 3)
+ * ...
 
 ## Resources
- * [Website](http://risklab.me/)
- * [YouTube](https://www.youtube.com/channel/UCjZiHA5kDeTB9lflOWjj8qg)
+ * [RiskLab Website](http://risklab.me/)
+ * [RiskLab YouTube Channel](https://www.youtube.com/channel/UCjZiHA5kDeTB9lflOWjj8qg)
+ * [Advances in Financial Machine Learning](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089)
  * [Slides](https://www.quantresearch.org/Lectures.htm)
- * [Book](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089)
 
 ## Authors
 

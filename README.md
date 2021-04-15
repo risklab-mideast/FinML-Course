@@ -12,8 +12,10 @@ community for non-business and educational purposes only,  under a GNU-GPL licen
 
 ## Chapters
 
- * Financial Data Structures (Chapter 2)
- * Labeling (Chapter 3)
+ * Chapter 2 - Financial Data Structures
+ * Chapter 3 - Labeling
+ * Chapter 4 - Sample Weights
+ * Chapter 5 - Fractionally Differentiated Features
  * ...
 
 ## Resources

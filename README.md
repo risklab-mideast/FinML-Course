@@ -26,5 +26,5 @@ community for non-business and educational purposes only,  under a GNU-GPL licen
 
 ## Authors
 
-* **Mehrdad Moghimi** - [Mehrdad96](https://github.com/mehrdad96)
+* **Mehrdad Moghimi** - [Github profile](https://github.com/mehrdadmoghimi)
 
